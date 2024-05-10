@@ -4,7 +4,8 @@
     top: 0;
     width: 260px;
     height: 100%;
-    z-index: 10000;
+    overflow-y: auto;
+    z-index: 10000;     
     background-color: #000;
 }
 #main {
